@@ -1,0 +1,44 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'Ming';
+    src: url('/fonts/japan.TTF') format('truetype');
+}
+.body{
+   background-image: linear-gradient(to right,#BF3F4A,#f5091ce5); 
+}
+.work-sans-uniquifier {
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+.main{
+    width: 900px;
+    padding: 20px;
+    background-color: white;
+    margin: auto;
+}
+.titulo-principal{
+    color:#F22727;
+    text-align: center;
+    font-family: 'Ming', sans-serif;
+}
+.sub-titulo{
+    font-family: 'Ming';
+    text-align: center;
+}
+.historia-jp{
+    text-align: justify;
+
+}
+.titulo-mapa{
+    text-align: center;
+}
+.iframe-mapa{
+    padding:0 0 0 150px;
+}
+.iframe-video{
+    margin:auto;
+    padding: 0 0 0 170px;
+}
+
